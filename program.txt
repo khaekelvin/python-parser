@@ -1,0 +1,4 @@
+INT a
+PRINT a + 2
+INT b
+PRINT b * 3
