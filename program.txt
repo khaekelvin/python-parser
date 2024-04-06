@@ -1,4 +1,12 @@
-INT a
-PRINT a + 2
-INT b
-PRINT b * 3
+i a
+i b
+i c
+f x
+f y
+a = 5
+b = 7
+c = a + b
+x = 7.5
+y = x + 2.5 + 12.25
+p c
+p y
